@@ -1,2 +1,4 @@
-# rust_exercises
-Rust basic exercises
+# Rust exercies
+
+These exercises comes from the book "The Rust Programming Language".
+
